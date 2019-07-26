@@ -2,15 +2,15 @@
 
 ------
 
-This quick reference guide assumes that the reader is well versed with ownCloud pre-requisites and installation. This guide only provides a high-level instructions on installing, configuring, and enabling access to ownCloud server through desktop/mobile client on Windows 7.
-
-------
-
-This guide covers the following topics: 
+This quick reference guide assumes that the reader is well versed with ownCloud pre-requisites and installation in Windows 7. This guide covers the following topics: 
 
 - Install and configure ownCloud on Windows 7
 - Add new user account to ownCloud server
 - Enabling users to connect to ownCloud server through mobile client
+
+------
+
+
 
 ## Installing ownCloud on Windows 7
 
@@ -40,7 +40,7 @@ To connect to ownCloud server though mobile client, perform the following steps:
 1. To enable access from mobile client, install Time-based One Time Password (TOPT). 
 
 ```
-Recommended TOPT: OpenOTP, PrivacyIDEA, and TOPT
+owncloud recommends that you use one of these TOPT applications: OpenOTP, PrivacyIDEA, and TOPT
 ```
 
 2. Install second factoring application on your mobile device such as FreeOTP
