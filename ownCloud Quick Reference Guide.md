@@ -29,7 +29,7 @@ To connect to ownCloud server though mobile client, perform the following steps:
 1. To enable access from mobile client, install Time-based One Time Password (TOPT). 
 
 ```
-Recommended TOPT: OpenOTP, PrivacyIDEA, and TOPT
+ownCloud recommends you use one of these TOPT applications: OpenOTP, PrivacyIDEA, and TOPT
 ```
 2. Install second factoring application on your mobile device such as FreeOTP
 3. Open your mobile application, navigate to personal security and select *Activate TOPT*.
