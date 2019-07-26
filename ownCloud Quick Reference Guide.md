@@ -1,12 +1,10 @@
 # ownCloud Quick Reference Guide
 ___
-This quick reference guide assumes that the reader is well versed with ownCloud pre-requisites and installation. This guide only provides a high-level instructions on installing, configuring, and enabling access to ownCloud server through desktop/mobile client on Windows 7.
-___
-This guide covers the following topics: 
+This quick reference guide assumes that the reader is well versed with ownCloud pre-requisites and installation. This guide only provides a high-level instructions on the following topics:
 - Install and configure ownCloud on Windows 7
 - Add new user account to ownCloud server
 - Enabling users to connect to ownCloud server through mobile client
-
+___
 
 ## Installing ownCloud on Windows 7
 To install ownCloud in your Windows 7 system, perform the following steps: 
